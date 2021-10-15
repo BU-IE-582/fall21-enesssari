@@ -2,6 +2,10 @@
 
 This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-enesssari/) created for IE 582 course at Bogazici University. 
 
+## Homework Assignments
+
+There will be several homework assignments done for this course.
+
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall21-baydoganmustafa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
