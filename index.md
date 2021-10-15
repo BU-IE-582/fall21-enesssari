@@ -1,7 +1,6 @@
 # Welcome to Enes Sarı's GitHub Pages
 
-This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-enesssari/) created for IE 582 course at Bogazici University. You can also visit my personal Github [Website](https://github.com/enesssari).
-
+This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-enesssari/) created for IE 582 course at Bogazici University. 
 
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall21-baydoganmustafa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
