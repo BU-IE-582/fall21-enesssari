@@ -4,7 +4,7 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-enesssa
 
 ## Homework Assignments
 
-There will be several homework assignments done for this course.
+There will be several homework assignments done for this course. You can see assignments and related files here.
 
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall21-baydoganmustafa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
