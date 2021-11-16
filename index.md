@@ -9,4 +9,4 @@ There will be several homework assignments done for this course. You can see ass
 
 ### Homework Assignment 2
 * [Description of Homework 2]()
-* [Dimensionality Reduction for Time Series Data]()
+* [Solution of Homework 2](https://bu-ie-582.github.io/GitHub/fall21-enesssari/Homework2.html)
